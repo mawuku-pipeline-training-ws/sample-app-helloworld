@@ -105,6 +105,7 @@ keys nested under `ci:` in `ci-config.yaml`.
 ---
 
 ## Related Resources
+N/A
 
 - [`shared-library/vars/pipelineTemplateHelloWorld.groovy`](https://github.com/mawuku-pipeline-training-ws/shared-library/blob/main/vars/pipelineTemplateHelloWorld.groovy)
 - [`template-catalog/templates/0-helloWorld/Jenkinsfile`](https://github.com/mawuku-pipeline-training-ws/template-catalog/blob/main/templates/0-helloWorld/Jenkinsfile)
