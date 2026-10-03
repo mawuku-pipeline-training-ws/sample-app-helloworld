@@ -72,6 +72,7 @@ loaded without modifying the `Jenkinsfile`.
 ---
 
 ## Related Resources
+N/A
 
 - [`ci-shared-library/vars/pipelineTemplateHelloWorld.groovy`](../ci-shared-library/vars/pipelineTemplateHelloWorld.groovy)
 - [`ci-templates/templates/0-helloWorld/Jenkinsfile`](../ci-templates/templates/0-helloWorld/Jenkinsfile)
