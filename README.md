@@ -103,7 +103,7 @@ so the values it prints (`config.hello`, `config.firstName`, `config.lastName`) 
 keys nested under `ci:` in `ci-config.yaml`.
 
 ---
-##Remove later
+
 ## Related Resources
 
 - [`shared-library/vars/pipelineTemplateHelloWorld.groovy`](https://github.com/pipeline-training-ws/shared-library/blob/main/vars/pipelineTemplateHelloWorld.groovy)
